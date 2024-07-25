@@ -1,5 +1,5 @@
 name: Bug report
-description: `message_ix` does not work as expected.
+description: "`message_ix` does not work as expected."
 body:
   - type: markdown
     attributes:
