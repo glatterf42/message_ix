@@ -1,4 +1,3 @@
-# This form has been adapted from https://github.com/conda/conda/blob/main/.github/ISSUE_TEMPLATE/0_bug.yml.
 name: Bug report
 description: `message_ix` does not work as expected.
 body:
